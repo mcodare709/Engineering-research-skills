@@ -60,10 +60,9 @@ Concise code means reducing unnecessary structure, not compressing unrelated log
 4. Conciseness should come from removing redundant comments, repeated logic, unnecessary wrappers, unused variables, and verbose structure.
 5. Preserve readability, debuggability, and correct execution order.
 6. Use one-line code only when it improves clarity and does not hide logic.
-7. If the user says “一行就可” or “能一行就一行,” interpret it as “avoid unnecessary wrapping and verbose formatting,” not “merge unrelated statements with semicolons.”
-8. If the user explicitly requests code golf or ultra-compact code, stronger compression is allowed, but correctness and syntax safety still come first.
-9. When outputting a complete program, long file, standalone script, or code that is likely to be edited iteratively, prefer using canvas so the user can copy, edit, and revise it easily. For short commands, small fixes, or brief snippets, use a normal code block.
-10. Put only the code itself in canvas. Do not include explanations, introductions, conclusions, or markdown notes inside the canvas. Put any necessary explanation in the chat response.
+7. If the user explicitly requests code golf or ultra-compact code, stronger compression is allowed, but correctness and syntax safety still come first.
+8. When outputting a complete program, long file, standalone script, or code that is likely to be edited iteratively, prefer using canvas so the user can copy, edit, and revise it easily. For short commands, small fixes, or brief snippets, use a normal code block.
+9. Put only the code itself in canvas. Do not include explanations, introductions, conclusions, or markdown notes inside the canvas. Put any necessary explanation in the chat response.
 
 ### Allowed One-Line Cases
 
